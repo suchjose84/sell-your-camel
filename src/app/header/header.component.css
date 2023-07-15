@@ -1,0 +1,47 @@
+/* Mobile */
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(160,82,45);
+    padding: 10px;
+    color: rgb(245,255,250);
+
+}
+#navLogo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#navLogo img {
+    width: 50px;
+}
+#navLogo h1 {
+    margin: 0;
+    align-items: center;
+    font-family: 'Amatic SC', cursive;
+    
+}
+#camelSpan {
+    font-family: 'Pacifico', cursive;
+    font-size: 2rem;
+    font-weight: 100;
+}
+
+
+
+/* tablet */
+@media only screen and (min-width: 35em) {
+    
+    
+}
+
+/* PC */
+@media only screen and (min-width: 64rem) {
+
+
+}
+
+
