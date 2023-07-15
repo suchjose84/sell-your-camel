@@ -35,3 +35,16 @@ main {
     border: 1px solid black;
     width: 40%;
 }
+
+#postingContainer {
+    height: 400px;
+}
+
+.horizontal {
+    display: flex;
+    flex-direction: row;
+}
+
+#midPostingArea form label {
+    height: 50px;
+}
